@@ -1,6 +1,12 @@
-学习JVM，首先我们需要了解 JVM 运行时数据区域。
 
-我们根据下面两张图，简单的了解一下。
+
+这是学习 JVM 的第一篇。
+
+学习 JVM ，首先我们需要了解 JVM 运行时数据区域。
+
+
+我们根据下面这两张图，简单的了解一下。
+
 
 ![运行时数据区域](https://upload-images.jianshu.io/upload_images/1870221-6a909e08252673d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
