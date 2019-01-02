@@ -1,6 +1,9 @@
 学习JVM，首先我们需要了解 JVM 运行时数据区域。
+
 我们根据下面两张图，简单的了解一下。
+
 ![运行时数据区域](https://upload-images.jianshu.io/upload_images/1870221-6a909e08252673d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![](https://upload-images.jianshu.io/upload_images/1870221-2e71723a91f93a65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 组成部分：
